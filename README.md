@@ -1,6 +1,6 @@
 # 👗 StyleSense — AI Fashion Assistant
 
-> *"Others judge you by how you dress. Dress smarter."*
+> *"Becuase People Respond to how you dress."*
 
 **StyleSense** is a cross-platform mobile app that uses AI to recommend outfits from your own wardrobe based on the occasion, body type, and personal style. It also suggests new clothes from online stores like Myntra, Amazon, and Flipkart.
 
