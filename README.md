@@ -5,6 +5,22 @@
 
 **StyleSense** is a cross-platform mobile app that uses AI to recommend outfits from your own wardrobe based on the occasion, body type, and personal style. It also suggests new clothes from online stores like Myntra, Amazon, and Flipkart.
 
+## UI Mockups
+<p align="center">
+  <img src="assets/UI/Onboarding.png" width="200" />
+  <img src="assets/UI/Onboarding%201.png" width="200" />
+  <img src="assets/UI/Onboarding%202.png" width="200" />
+  <img src="assets/UI/Onboarding%203.png" width="200" />
+  <img src="assets/UI/Onboarding%204.png" width="200" />
+  <img src="assets/UI/SignUp.png" width="200" />
+  <img src="assets/UI/Home.png" width="200" />
+  <img src="assets/UI/Explore.png" width="200" />
+  <img src="assets/UI/Wardrobe.png" width="200" />
+  <img src="assets/UI/AI_Chat.png" width="200" />
+  <img src="assets/UI/Settings.png" width="200" />
+  <img src="assets/UI/Settings%202.png" width="200" />
+</p>
+
 ## Tech Stack
 
 | Layer | Technology |
